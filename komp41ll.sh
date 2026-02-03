@@ -1,1 +1,0 @@
-mmbt sh kn nganu
