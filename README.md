@@ -17,12 +17,13 @@ apt install sudo
 
 optional
 ```
-adduser root
+adduser dos4unix
 nano /etc/sudoers
-su ~ root
+su ~ dos4unix
 whoami
 sudo whoami
 ```
+
 
 ```bash
 sudo apt install xfce4 -y
