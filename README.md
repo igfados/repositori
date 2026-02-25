@@ -14,6 +14,8 @@ apt update -y
 apt install nano adduser
 apt install sudo
 ```
+
+optional
 ```
 adduser root
 nano /etc/sudoers
