@@ -25,3 +25,9 @@ sudo whoami
 ```bash
 sudo apt install xfce4 -y
 ```
+
+```
+wget https://raw.githubusercontent.com/LinuxDroidMaster/Termux-Desktops/main/scripts/proot_debian/startxfce4_debian.sh
+chmod +x startxfce4_debian.sh
+./startxfce4_debian.sh
+```
